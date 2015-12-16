@@ -1,4 +1,4 @@
-# Javascript Style Guide
+# Javascript Style Guide - Jacob
 
 ## Table of Contents
 
